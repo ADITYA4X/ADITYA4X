@@ -27,8 +27,8 @@
   <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
 
  <br>
-  
-<p align="center">
+<h2 align="left">Frequently used Language 📺</h2>  
+<p align="left">
   <a href="https://github.com/Iamtripathisatyam/github-readme-streak-stats">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ADITYA4X&theme=dark&hide_border=true&background=22272e&stroke=0000"/>
   </a>
