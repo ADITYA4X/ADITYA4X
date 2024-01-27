@@ -8,7 +8,7 @@
 
 # I'm a Learner, Developer, and Freelancer!!!
 
-- 🌱 I’m currently learning everything 📝
+- 🌱 I’m currently learning Advanced React 📝
 - 👨‍💻 Goals: Contribute more to Open Source projects 👨‍💻
 - ⚡ Fun fact: I love digital Sketching ✏️ and Painting 🎨
 
