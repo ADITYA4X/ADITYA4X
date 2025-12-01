@@ -32,16 +32,11 @@
 ![TanStack Query](https://img.shields.io/badge/tanstack%20query-%23000000.svg?style=for-the-badge&logo=react-query&logoColor=%23FF4154)
 ![React Hook Form](https://img.shields.io/badge/react%20hook%20form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 
-<picture>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ADITYA4X/ADITYA4X/output/github-snake.svg" />
-</picture>
+
 
  <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ADITYA4X&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ADITYA4X&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ADITYA4X&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
