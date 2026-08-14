@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-k-68323a105/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]() [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/adi_tya_4u)
 
-<h3 align="center">I am Full Stack Software Developer.I have a keen interest in MERN Stack Web Development. Currently Open for better opportunities in Software development</h3>
+<h3 align="center">I am Full Stack Software Developer.Currently Open for better opportunities in Software development</h3>
 
 - 🌱 I’m currently learning Advanced Backened & Devops 📝
 - ⚡ Fun fact: I love digital Sketching ✏️ and Painting 🎨
